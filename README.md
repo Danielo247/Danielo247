@@ -6,7 +6,7 @@
 
 <p>- <i>Computer Science student passionate about technology and innovation. Skilled in Python, Angular, and React, with academic experience in Java. Currently developing my C skills at Telefónica's 42 Campus. Enthusiastic about programming, algorithms, and data analysis, with strong interest in Artificial Intelligence, Machine Learning, and Data Science. Committed to continuous learning and eager to contribute to innovative technological solutions.</i></p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkMjMxZ2N0ajNxbWJtdW5rYnhzbmZjeWs2bnJnNjg5aWJvcG9laSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="45%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
