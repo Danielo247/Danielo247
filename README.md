@@ -25,7 +25,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 </div>
 
-<div align="center">  
+<div align="left">  
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielo247&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
 </div>
 
