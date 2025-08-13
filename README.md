@@ -15,22 +15,19 @@
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielo247&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
 </div>
 
+</div>
+
+🚀 My Programming Stack ⚡
+
+<img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"></a>
+
+</div>
+
+
 <div align="center"> 
 <a href = "mailto:danielftr7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/danielo247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
-</div>
-
-### Main Skills:
-- Python 🐍  
-- Angular ⚡  
-- React ⚛️  
-- Java ☕  
-- C 💻  
-
-</div>
-
 ------
-Credit: [Danielo247](https://github.com/Danielo247)  
-Last Edited on: 13/08/2025
+Thanks
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
